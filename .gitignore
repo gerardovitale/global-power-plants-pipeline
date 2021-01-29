@@ -1,3 +1,5 @@
 .DS_store
 .env
 /globalpowerplantdatabasev120
+.ipynb_checkpoints
+__pycache__
