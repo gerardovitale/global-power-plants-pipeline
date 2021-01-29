@@ -1,0 +1,20 @@
+id,name,capital,population,population_percent,population_density,area,density_percent,GDP
+1,Andalucía,Sevilla,8464411,17.84,96.63,87599,17.31,19107
+2,Cataluña,Barcelona,7780479,16.40,242.28,32113,6.35,30426
+3,Comunidad de Madrid,Madrid,6779888,14.29,844.53,8028,1.59,35041
+4,Comunidad Valenciana,Valencia,5057353,10.64,217.47,23255,4.60,22426
+5,Galicia,Santiago de Compostela,2701819,5.69,91.35,29575,5.84,23183
+6,Castilla y León,Valladolid,2394918,5.05,25.42,94224,18.62,24031
+7,País Vasco,Vitoria,2220504,4.69,306.95,7234,1.43,33233
+8,Canarias,Las Palmas de Gran Canaria y Santa Cruz de Tenerife (capitalidad compartida),2175952,4.59,292.19,7447,1.47,20892
+9,Castilla-La Mancha,Toledo,2045221,4.31,25.74,79461,15.70,20363
+10,Región de Murcia,Murcia,1511251,3.18,133.57,11314,2.24,21269
+11,Aragón,Zaragoza,1329391,2.80,27.86,47720,9.43,28151
+12,Islas Baleares,Palma,1171543,2.47,234.68,4992,",99",27682
+13,Extremadura,Mérida,1063987,2.24,25.56,41634,8.23,18769
+14,Principado de Asturias,Oviedo,1018784,2.15,96.08,10604,2.10,22789
+15,Navarra,Pamplona,661197,1.39,63.63,10391,2.05,31389
+16,Cantabria,Santander,582905,1.23,109.55,5321,1.05,23757
+17,La Rioja,Logroño,319914,",67",63.41,5045,1.00,27225
+18,Melilla,Melilla,87076,",18",7256.33,12,<0.01,18533
+19,Ceuta,Ceuta,84202,",18",4210.10,20,<0.01,20120
